@@ -45,7 +45,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   word-wrap: break-word;
   overflow-x: hidden;
-  color: #333;
+  color: rgb(70,70,70);
 }
 
 ul {
@@ -80,5 +80,5 @@ ul {
 }
 
 .icon-group{
-  color:rgb(0, 160, 224)
+  color:rgb(89, 173, 175)
 }
